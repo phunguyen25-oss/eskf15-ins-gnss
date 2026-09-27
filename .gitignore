@@ -1,0 +1,34 @@
+# Build outputs
+*.o
+*.obj
+*.elf
+*.bin
+*.hex
+*.map
+*.exe
+*.out
+Debug/
+Release/
+build/
+
+# STM32CubeIDE / Eclipse
+.metadata/
+.settings/
+*.launch
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# MATLAB / Simulink
+*.asv
+*.autosave
+*.mex*
+slprj/
+*.slxc
+sccprj/
+
+# Test binaries
+stm32/tests/native/test_eskf

@@ -1,0 +1,3 @@
+ESKF15-ABC 1.0.0
+Target profile: STM32F411 + MPU6050 adapter
+Desktop profile: base MATLAB, no optional toolboxes
